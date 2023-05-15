@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://tien1o.github.io/bookshelf-group-09",
+  "homepage": "https://GoitStudentsWorks.github.io/js_76_tien1o",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf-group-09/"
+    "build": "parcel build src/*.html --public-url /js_76_tien1o/"
   },
   "repository": {
     "type": "git",
